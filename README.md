@@ -1,4 +1,9 @@
 # Brain MRI analysis using a deep learning based evolutionary approach
+Tensorflow implementation of the paper with title "Brain MRI analysis using a deep learning based evolutionary approach".
+https://www.sciencedirect.com/science/article/abs/pii/S0893608020300940
+
+
+# Abstarct
 Convolutional neural network (CNN) models have recently demonstrated impressive performance in
 medical image analysis. However, there is no clear understanding of why they perform so well, or
 what they have learned. In this paper, a three-dimensional convolutional neural network (3D-CNN) is
@@ -18,3 +23,7 @@ are interpreted as the segments of the brain which are mostly used by the 3D-CNN
 for brain disease classification. Experimental results show that besides the model interpretability, the
 proposed GABM method has increased final performance of the classification model in some cases
 with respect to model parameters.
+
+<div align="center">
+    <img src="/overall_diagram.PNG">
+</div>
