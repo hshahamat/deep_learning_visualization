@@ -1,5 +1,5 @@
 # Brain MRI analysis using a deep learning based evolutionary approach
-Tensorflow implementation of paper with title "Brain MRI analysis using a deep learning based evolutionary approach".
+Tensorflow implementation of our paper with title "Brain MRI analysis using a deep learning based evolutionary approach".
 https://www.sciencedirect.com/science/article/abs/pii/S0893608020300940
 
 
